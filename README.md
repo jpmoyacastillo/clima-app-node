@@ -1,6 +1,6 @@
 ## Weather Application - Node Course
 
-Remember to run `` `npm install``` for the libraries
+Remember to run ```npm install``` for the libraries
 
 
 ### Example:
