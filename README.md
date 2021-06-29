@@ -1,9 +1,9 @@
-## Aplicación del Clima - Curso Node
+## Weather Application - Node Course
 
-Recuerden ejecutar ```npm install``` para las librerías
+Remember to run `` `npm install``` for the libraries
 
 
-### Ejemplo:
+### Example:
 ```
 node app -d "San Jose Costa Rica"
 ```
